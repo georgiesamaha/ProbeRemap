@@ -1,2 +1,2 @@
 # ProbeRemap
-Map SNP positions to a supplied reference assembly using BLAST. Filter results for best hit. Output in plink format. 
+These scripts can be used to map SNP probes to a supplied reference assembly using BLAST, filter results for best hit and output in plink ped/map format. 
