@@ -5,7 +5,7 @@ These scripts have been used in Samaha et al. 2020 (DOI: 10.1038/s41598-020-7616
 
 ## Workflow
 
-<img src="https://github.com/georgiesamaha/ProbeRemap/blob/main/probe_remap_workflow.png" width="100%" height="100%"> 
+<img src="https://github.com/georgiesamaha/ProbeRemap/blob/main/probe_remap_workflow.png" width="80%" height="80%"> 
 
 ## Software
 - python3
