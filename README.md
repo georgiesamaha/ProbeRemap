@@ -38,4 +38,5 @@ This will take the probe sequence files output to `./Output` and the provided re
 
 This will filter BLAST results for all probe sequences to collect the single best hit for each sequence. Hits that failed to return any result, hits that failed to reach the base position immediately adjacent to the SNV and those that had an E-value greater than 1e−05 will rejected. You can edit Evalue within the script. A summary log will be printed to the screen and files will be output for unmapped markers `./Output/<reference>.failedBlast.txt`, multi-mapped markers `./Output/<reference>.multipleBLAST.txt`, and successfully updated positions `./Output/<reference>.newpos.txt`.   
 
-
+## Acknowledgements 
+Written by Mitchell O'Brien and Georgie Samaha 
